@@ -76,3 +76,5 @@ Based on the Fisher exact test it shows that of the people that caught aids 210 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+All in all I concluded that the drug created to prevent people from catching aids has a negative impact and does not help at all. Looking back at the bar chart you can visually tell that not many females caught aids but of the very few that did, the column of the females that did take the drug was higher than the females that took placebo. Also looking at the inferential area it shows us that of the few that caught aids 210 took the drug and 147 took placebo. So that is how you can conclude that the drug is working bad and to not take it. 
